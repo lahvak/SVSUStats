@@ -1,0 +1,27 @@
+---
+title: ""
+author: ""
+output: 
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+    df_print: paged
+  pdf_document:
+    df_print: tibble
+geometry: margin=1in
+---
+
+## Setup
+
+We start every notebook by activating several useful libraries:
+
+```{r setup, message=FALSE}
+library(tidyverse)
+library(mosaic)
+```
+
+## Introduction
+
+
+

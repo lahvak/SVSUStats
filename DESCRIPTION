@@ -1,0 +1,13 @@
+Package: SVSUStats
+Type: Package
+Title: SVSU Intro Stats Course Package
+Version: 0.1.0
+Author: Jan Hlavacek
+Maintainer: Jan Hlavacek <jhlavace@svsu.edu>
+Description: This package contains template(s) for SVSU introductory
+    statistics courses.  The templates setup some yaml headers and include 
+    some basic ducument structure that is used in all documentsin these
+    courses.
+License: Public Domain
+Encoding: UTF-8
+LazyData: true

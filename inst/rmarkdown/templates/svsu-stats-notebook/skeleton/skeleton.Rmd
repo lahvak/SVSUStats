@@ -11,7 +11,9 @@ output:
     code_download: false
   pdf_document:
     df_print: tibble
+    latex_engine: xelatex
 geometry: margin=1in
+mainfont: FreeSerif
 ---
 
 ## Setup
